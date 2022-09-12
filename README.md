@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tonči</h1>
 <h2 align="center">Student front end developer from Croatia</h3><br>
 
-- 🎓 I’m computer science student at **Faculty of Informatics and Digital Technologies**
+- 🎓 I’m a 22 year old computer science student at **Faculty of Informatics and Digital Technologies**
 
 - ⚛️ I’m interested in web development and in my free time i build web pages
 
