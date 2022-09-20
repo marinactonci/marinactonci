@@ -5,7 +5,7 @@
 
 - ⚛️ I’m interested in web development and in my free time i build web pages
 
-- 🤽 My other hobby is waterpolo which I train for 11 years
+- 🤽 My other hobby is waterpolo which I've been training for 11 years
 
 - 🐙 <a href="https://marinactonci.netlify.app">Portfolio page</a>
 
