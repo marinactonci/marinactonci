@@ -52,7 +52,7 @@
   </a> 
     &emsp;
   <a href="https://react.dev/" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/React-%61DAFB?style=for-the-badge&logo=react&logoColor=white">
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
   </a>
     &emsp;
   <a href="https://tailwindcss.com/" target="_blank">
