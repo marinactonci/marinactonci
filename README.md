@@ -14,31 +14,31 @@
 <h3 align= "center">Frontend Development</h3>
 <p align="center"> 
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="https://www.w3.org/html/"> 
    <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   </a>   
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://www.w3schools.com/css/">
     <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   </a>
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
    </a>
   &emsp;
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
+  <a href="https://www.typescriptlang.org/"> 
     <img alt="Typescript" src="https://img.shields.io/badge/typescript-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   </a> 
       &emsp;
-  <a href="https://angular.io/" target="_blank">
+  <a href="https://angular.io/">
     <img alt="Angular"src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   </a> 
     &emsp;
-  <a href="https://react.dev/" target="_blank">
+  <a href="https://react.dev/">
     <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
   </a>
     &emsp;
-  <a href="https://tailwindcss.com/" target="_blank">
+  <a href="https://tailwindcss.com/">
     <img alt="TailwindCSS"src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
   </a> 
 
