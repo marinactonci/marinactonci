@@ -13,29 +13,6 @@
 
 <h3 align= "center">Programming languages</h3>
 
-<p align="center"> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  </a> 
-    &emsp;
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img alt="Typescript" src="https://img.shields.io/badge/typescript-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-   </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  </a>
-    &emsp;
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
-    <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)">
-  </a> 
-</p>
-
 <h3 align= "center">Frontend Development</h3>
 <p align="center"> 
   &emsp; 
@@ -46,6 +23,15 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   </a>
+  &emsp;
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img alt="Typescript" src="https://img.shields.io/badge/typescript-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+   </a>
+  &emsp;
       &emsp;
   <a href="https://angular.io/" target="_blank">
     <img alt="Angular"src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
@@ -102,6 +88,11 @@
     <a href="https://www.apple.com/hr/macos/what-is/"><img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white"></a> 
 </p>
 
+<div align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=marinactonci&theme=tokyonight&show_icons=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinactonci&layout=compact&theme=tokyonight&hide=less" />
+</div>
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
@@ -109,9 +100,4 @@
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marinactonci/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toncimarinac@gmail.com)
   
-</div>
-
-<div align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=marinactonci&theme=tokyonight&show_icons=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinactonci&layout=compact&theme=tokyonight&hide=less" />
 </div>
