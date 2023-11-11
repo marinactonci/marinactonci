@@ -31,11 +31,11 @@
   </a> 
       &emsp;
   <a href="https://angular.io/">
-    <img alt="Angular"src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+    <img alt="Angular"src="https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   </a> 
     &emsp;
   <a href="https://react.dev/">
-    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+    <img alt="React" src="https://img.shields.io/badge/react-%61DAFB?style=for-the-badge&logo=react&logoColor=white">
   </a>
     &emsp;
   <a href="https://tailwindcss.com/">
