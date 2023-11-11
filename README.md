@@ -67,13 +67,15 @@
   &emsp;
     <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
   &emsp;
-    <a href="https://unity.com"><img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></a>
+    <a href="https://chat.openai.com/"><img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-412991.svg?style=for-the-badge&logo=openai&logoColor=white"></a>
   &emsp;
-    <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+    <a href="https://github.com/features/copilot"><img alt="Github Copilot" src="https://img.shields.io/badge/Github%20Copilot-%23F05033.svg?style=for-the-badge&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="https://www.figma.com/"><img alt="FIGMA" img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
+    <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
   &emsp;
-    <a href="https://www.blender.org/"><img alt="FIGMA" img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></a>
+    <a href="https://www.figma.com/"><img alt="Figma" img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.blender.org/"><img alt="Blender" img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></a>
 </p>
 
 <h3 align= "center">IDEs</h3>
@@ -82,9 +84,7 @@
   &emsp;
     <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
     &emsp;
-    <a href="https://www.jetbrains.com/"><img alt="Web Storm" src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=green"></a>
-  &emsp;
-    <a href="https://www.jetbrains.com/"><img alt="JetBrain" src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white" /></a>
+    <a href="https://www.jetbrains.com/"><img alt="Webstorm" src="https://img.shields.io/badge/Webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=green"></a>
   &emsp;
     <a href="https://visualstudio.microsoft.com/"><img alt="VisualStudio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" /></a>
 </p>
@@ -98,6 +98,8 @@
     <a href="https://github.com/torvalds/linux"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
   &emsp;
     <a href="https://www.microsoft.com/hr-hr/windows?r=1"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>  
+  &emsp;
+    <a href="https://www.apple.com/hr/macos/what-is/"><img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white"></a> 
 </p>
 
 <h3 align="center">Connect with me:</h3>
