@@ -11,8 +11,6 @@
 
 <h2 align= "center">🛠️ My Skills</h2>
 
-<h3 align= "center">Programming languages</h3>
-
 <h3 align= "center">Frontend Development</h3>
 <p align="center"> 
   &emsp; 
