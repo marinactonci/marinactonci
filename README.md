@@ -3,7 +3,7 @@
 
 - 🎓 I’m a 23 year old computer science student at **Faculty of Informatics and Digital Technologies**. I'm currently in my first year of Master's Degree.
 
-- 🕸️ I’m interested in web development and in my free time I build web pages
+- 🕸️ I’m interested in web development and in my free time I build web applications
 
 - 💻 <a href="https://marinactonci.netlify.app" target="_blank">Portfolio page</a>
 
