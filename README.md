@@ -5,7 +5,7 @@
 
 - 🕸️ I’m interested in web development and in my free time I build web applications
 
-- 💻 <a href="https://marinactonci.netlify.app" target="_blank">Portfolio page</a>
+- 💻 <a href="https://marinactonci.vercel.app" target="_blank">Portfolio page</a>
 
 <h2 align= "center">🛠️ My Skills</h2>
 
