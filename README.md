@@ -7,8 +7,6 @@
 
 - 💻 <a href="https://www.marinactonci.xyz/" target="_blank">Portfolio page</a>
 
-<h2 align= "center">🛠️ My Skills</h2>
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Use 👨🏻‍💻</h2></summary>
