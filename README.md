@@ -7,7 +7,8 @@
 
 - 💻 <a href="https://www.marinactonci.xyz/" target="_blank">Portfolio page</a>
 
-<h2 style="display: inline-block">Technologies That I Use 👨🏻‍💻</h2>
+<br>
+<h2 style="display: inline-block" align="center">Technologies That I Use 👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
