@@ -17,7 +17,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,express,figma,angular,firebase,github,webstorm,netlify,html,js,md,mongodb,nextjs,ts,nodejs,py,react,vercel,tailwind,ts,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nextjs,tailwind,figma,firebase,mongodb,prisma,supabase,nodejs,express,git,github,webstorm,netlify,vercel,vscode,webstorm&perline=11" />
   </a>
 </p>
 
