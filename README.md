@@ -7,11 +7,7 @@
 
 - 💻 <a href="https://www.marinactonci.xyz/" target="_blank">Portfolio page</a>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Use 👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+<h2 style="display: inline-block">Technologies That I Use 👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
