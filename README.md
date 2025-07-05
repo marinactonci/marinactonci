@@ -5,7 +5,7 @@
 
 - 🕸️ I’m interested in web development and in my free time I build web applications
 
-- 💻 <a href="https://www.marinactonci.xyz/" target="_blank">Portfolio page</a>
+- 💻 <a href="https://www.marinactonci.com/" target="_blank">Portfolio page</a>
 
 <h2 style="display: inline-block" align="center">Technologies That I Use 👨🏻‍💻</h2>
 <!--tech stack icons-->
