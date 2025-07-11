@@ -7,11 +7,11 @@
 
 - 💻 <a href="https://www.marinactonci.com/" target="_blank">Portfolio page</a>
 
-<h2 style="display: inline-block" align="center">Technologies That I Use 👨🏻‍💻</h2>
+<h2 style="display: inline-block" align="center">My Main Tech Stack 👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nextjs,tailwind,figma,firebase,mongodb,prisma,supabase,nodejs,git,github,webstorm,netlify,vercel,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,prisma,postgres&perline=3" />
   </a>
 </p>
 
