@@ -7,7 +7,7 @@
 
 - 💻 <a href="https://www.marinactonci.com/" target="_blank">Portfolio page</a>
 
-<h2 style="display: inline-block" align="center">My Main Tech Stack 👨🏻‍💻</h2>
+<h2 style="display: inline-block" align="center">My Current Main Tech Stack 👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
