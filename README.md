@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tonči</h1>
-<h2 align="center">Student frontend developer from Croatia</h3><br>
+<h2 align="center">Frontend developer from Croatia</h3><br>
 
-- 🎓 I’m a 24 year old computer science student at **Faculty of Informatics and Digital Technologies**. I'm currently in my second year of Master's Degree.
+- 🎓 Master’s in Computer Science, **Faculty of Informatics and Digital Technologies**.
 
-- 🕸️ I’m interested in web development and in my free time I build web applications.
+- 🕸️ Web development enthusiast, building apps in my free time.
 
 - 💻 <a href="https://www.marinactonci.com/" target="_blank">Portfolio page</a>
 
